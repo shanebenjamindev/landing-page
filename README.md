@@ -20,11 +20,11 @@ wrap các component trong app
 Thẻ metadata
 ví dụ: 
 
-<Navbar/>
-    <main className = "realative overflow-hidden">
+< Navbar/>
+    < main className = "realative overflow-hidden">
         {children} 
-    </main>
-<Footer/> 
+    </ main>
+< Footer/> 
 
 page.js:
 đại diện cho Homepage (trang mặc định)
