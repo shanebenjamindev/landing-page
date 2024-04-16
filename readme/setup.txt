@@ -10,6 +10,11 @@ Alios       : No
 npm run dev
 
 2. Giải thích Structure:
+(khác clip) trong components thống nhất là tạo thư mục /.tsx
+ 
+constant: 
+chứa các biến toàn cục 
+ 
 layout.js: 
 wrap các component trong app
 Thẻ metadata

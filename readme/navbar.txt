@@ -1,0 +1,11 @@
+Giang
+
+- Mình đã tạo button component
+
+- Các variant có thể tìm thấy trong file global.css
+- Các props sẽ load vào component để sử dụng nhiều lần
+
+- Thẻ Nav có responsive:
+khi thu nhỏ màn hình sẽ ẩn các link bằng class hidden
+thẻ hình Hamburgur sẽ ngược lại
+
